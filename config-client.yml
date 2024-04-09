@@ -1,0 +1,8 @@
+countriesMappedForFirstInvoicesBusinessArea:
+  - CN
+  - MO
+proofOfPaymentBusinessAreas:
+  - CN00
+  - MO00
+  - HK00
+proofOfPaymentEccCountryCodes: [PH]

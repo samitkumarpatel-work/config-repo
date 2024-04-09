@@ -1,0 +1,27 @@
+countriesMappedForFirstInvoicesBusinessArea:
+  - CN
+  - MO
+  - HK
+  - IN
+  - NP
+  - PH
+proofOfPaymentBusinessAreas:
+  - CN00
+  - MO00
+  - HK00
+  - IN00
+  - NP00
+  - AE00
+  - BD00
+  - LK00
+  - JP00
+  - KP00
+  - JO00
+  - KW00
+  - OM00
+  - QA00
+  - SA00
+  - KR00
+  - PH00
+  - HQ06
+proofOfPaymentEccCountryCodes: [PH]

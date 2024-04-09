@@ -1,0 +1,12 @@
+nginx:
+  server:
+    name: example.com
+
+---
+spring:
+  config:
+    activate:
+      on-profile: development
+nginx:
+  server:
+    name: development.com
