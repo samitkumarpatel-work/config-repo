@@ -1,11 +1,11 @@
-countriesMappedForFirstInvoicesBusinessArea:
+supportedCountriesCode:
   - CN
   - MO
   - HK
   - IN
   - NP
   - PH
-proofOfPaymentBusinessAreas:
+supportedCountriesCodePrefix:
   - CN00
   - MO00
   - HK00
@@ -24,4 +24,4 @@ proofOfPaymentBusinessAreas:
   - KR00
   - PH00
   - HQ06
-proofOfPaymentEccCountryCodes: [PH]
+legacyCountryCodes: [PH]
