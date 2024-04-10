@@ -7,5 +7,6 @@ supportedCountriesCodePrefix:
   - CN00
   - MO00
   - HK00
-legacyCountryCodes: [PH, PL, PM]
-hello: ChangeWorld
+legacyCountryCodes: [PH, PL, PM, HP]
+hello: changeWorld
+serverName: "${nginx.server.name}"
