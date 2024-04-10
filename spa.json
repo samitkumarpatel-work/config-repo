@@ -4,7 +4,7 @@
   "alphabet" : {
     "a" : "apple",
     "b" : "banana",
-    "c" : ["cherry", "chocolate"],
+    "c" : ["cherry", "chocolate", "cheese"],
     "d" : "date"
   }
 }
