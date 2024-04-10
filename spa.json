@@ -1,10 +1,10 @@
 {
   "name" : "SPA",
+  "serverName" : "${nginx.server.name}",
   "alphabet" : {
     "a" : "apple",
     "b" : "banana",
     "c" : ["cherry", "chocolate"],
-    "d" : "date",
-    "serverName" : "${nginx.server.name}"
+    "d" : "date"
   }
 }
