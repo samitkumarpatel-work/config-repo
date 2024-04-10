@@ -1,6 +1,6 @@
 nginx:
   server:
-    name: default.com
+    name: default-host.com
 
 ---
 spring:
