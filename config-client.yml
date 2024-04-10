@@ -9,4 +9,4 @@ supportedCountriesCodePrefix:
   - HK00
 legacyCountryCodes: [PH, PL, PM, HP]
 hello: changeWorld
-serverName: "${nginx.server.name}"
+serverName: ${nginx.server.name}
