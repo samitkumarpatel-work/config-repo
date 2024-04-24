@@ -1,3 +1,8 @@
+management:
+  endpoint:
+    env:
+      show-values: ALWAYS
+
 supportedCountriesCode:
   - CN
   - MO
