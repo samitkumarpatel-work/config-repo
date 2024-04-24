@@ -1,7 +1,7 @@
-management:
-  endpoint:
-    env:
-      show-values: ALWAYS
+# management:
+#   endpoint:
+#     env:
+#       show-values: ALWAYS
 
 supportedCountriesCode:
   - CN
