@@ -1,7 +1,7 @@
-management:
-  endpoint:
-    env:
-      show-values: ALWAYS
+# management:
+#   endpoint:
+#     env:
+#       show-values: ALWAYS
 
 supportedCountriesCode:
   - CN
@@ -13,5 +13,5 @@ supportedCountriesCodePrefix:
   - MO00
   - HK00
 legacyCountryCodes: [PH]
-hello: remoteHello
+hello: remoteHelloXXXXX
 serverName: ${nginx.server.name}
