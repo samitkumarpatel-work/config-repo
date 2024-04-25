@@ -13,5 +13,5 @@ supportedCountriesCodePrefix:
   - MO00
   - HK00
 legacyCountryCodes: [PH]
-hello: remoteHelloXXXX
+hello: remoteHello
 serverName: ${nginx.server.name}
