@@ -1,5 +1,5 @@
 {
-  "name" : "SPA",
+  "name" : "SPAX",
   "serverName" : "${nginx.server.name}",
   "alphabet" : {
     "a" : "apple",
